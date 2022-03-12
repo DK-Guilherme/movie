@@ -1,0 +1,30 @@
+header {
+    background-color: var(--color-primary);
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.dkmovie-nav-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.dkmovie-nav-content h1 {
+    margin: 0;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.dkmovie-contact-container {
+    display: flex;
+    align-items: center;
+}
+
+.dkmovie-contact-link {
+    margin: 0;
+    margin-left: 10px;
+    font-size: 15px;
+}
